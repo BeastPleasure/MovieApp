@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+
+This is a clone of IMDB (A movie / tv show / anime streaming app). 
+
+* It is built in VScode with ReactJS, CSS, Javascript, HTML.
+
+* It uses the TMDB API to fetch out movies of several categories to populate the app accordingly.
+
 ## Available Scripts
 
 In the project directory, you can run:
